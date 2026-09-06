@@ -2164,3 +2164,12 @@
   place: Los Angeles, California
   tags: [SEC, PRIV, CRYPTO, SHOP, OTHERS]
 
+- name: ISDFS
+  description: IEEE International Symposium on Digital Forensics and Security
+  year: 2027
+  link: https://www.isdfs.org/
+  dblp: https://dblp.org/db/conf/isdfs/index.html
+  deadline: ["2027-01-31 23:59"] # must be a list
+  date: March 25-26
+  place: San Jose, CA, USA
+  tags: [SEC, PRIV, CONF, AI, OTHERS]
